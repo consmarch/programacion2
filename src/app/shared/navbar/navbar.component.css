@@ -1,3 +1,18 @@
-img{
-width: 80px;
+img {
+    width: 120px;
+}
+
+.container-fluid {
+    background-color: rgb(10, 40, 122);
+}
+
+.navbar {
+  padding: 0;
+}
+
+.navbar a {
+  color: #ffffff; /* blanco */
+}
+.navbar a:hover {
+  color: #4ee4ff; /* cambia al pasar el mouse */
 }
